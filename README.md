@@ -1,2 +1,2 @@
 # vtemp
-vtemp node脚本
+私人vue cli
