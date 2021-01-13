@@ -1,7 +1,7 @@
 {
   "name": "vtemp",
   "version": "1.0.0",
-  "description": "vue3的ts模板cli工具",
+  "description": "vue3-typeScript模板cli工具",
   "main": "index.js",
   "bin": {
     "vtemp": "index.js"
@@ -9,12 +9,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "vue3",
+    "lmc",
+    "李美超",
+    "cli",
+    "vtemp",
+    "big0range",
+    "bigorange"
+  ],
+  "author": "李美超",
+  "license": "MIT",
   "dependencies": {
     "commander": "^6.2.1",
     "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.5",
+    "inquirer": "^7.3.3",
     "open": "^7.3.1"
   }
 }
