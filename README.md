@@ -33,7 +33,7 @@ vtemp create  <project>   # 例如 vtemp create my-vtemp
 
 
 **目录结构**
-
+```
 ├─public  html模板以及ico
 ├─src
 │  ├─api  接口请求assets
@@ -42,7 +42,7 @@ vtemp create  <project>   # 例如 vtemp create my-vtemp
 │  ├─router 自动化处理路由配置文件
 │  ├─store  vuex-store
 │  ├─view 页面目录
-
+```
 ## 项目开发
 
 项目开发目前提供如下功能：
@@ -107,9 +107,12 @@ vtemp api <filename> -d ./api -t ts # 也可以指定文件夹和类型
 
 ### 1.0.1
 
-修复第一版的bug, 并且顺手写了个文档
+修复第一版的bug(创建api指定类型存在问题), 并且顺手写了个文档
 
+### 1.0.2
 
+啊这...
+刚刚项目目录结构没写好,再发一版吧 屮
 
 # English Documentation
 
